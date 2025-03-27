@@ -1,2 +1,2 @@
 # modal_window-html-css-js
-модаль
+модальное окно или попап на javascript
